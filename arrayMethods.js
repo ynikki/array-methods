@@ -62,3 +62,6 @@ var monthNameString = monthNames.toString();
 
 // var colors = ['Blue', 'Red', 'Yellow', 'Charlie'];
 var favoriteColor = colors.indexOf('Red');
+
+// var mixedNums = [5, 81, 40, 4, 805, 10, 76, 21, 3, 2, 7, 1, 7];
+var favoriteEvenNumber = mixedNums.indexOf(76);
