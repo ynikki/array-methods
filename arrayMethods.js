@@ -32,3 +32,4 @@ var shiftArr = orderQueue.shift();
 var nextOrder = shiftArr;
 
 mixedNums.sort();
+mixedWords.sort();
