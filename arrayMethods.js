@@ -27,3 +27,5 @@ var popResult = lastElement;
 
 scrambledWords.reverse();
 phoneNumber.reverse();
+
+var shiftArr = orderQueue.shift();
