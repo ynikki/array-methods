@@ -37,3 +37,6 @@ mixedWords.sort();
 var fruity = fruitCollection.splice(1,3);
 var notFruit = fruity;
 var gems = gemBox.splice(5,7,'Sapphire');
+
+// var upToTen = [1, 2, 9, 10];
+var toTen = upToTen.splice(2,0,3,4,5,6,7,8);
