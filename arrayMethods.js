@@ -20,3 +20,4 @@ var bulkNumbers = [5, 5, 6, 6, 9, 9, 2, 2, 2, 5, 2];
 // var emptyArr = [];
 var nameArray = [];
 console.log(nameArray.push('Nikki','Kobayashi'));
+console.log(genericNumberArray.push(6,7,8,9,10));
