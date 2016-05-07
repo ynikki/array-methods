@@ -50,4 +50,4 @@ var foodOne = [{takeOut:'Pizza'}];
 var foodTwo = [{takeOut:'Ramen'}];
 var updatedOrders = orderQueue.concat(foodOne,foodTwo);
 
-
+var sentence = scrambledWords.join(' ');
