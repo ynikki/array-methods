@@ -35,3 +35,4 @@ mixedNums.sort();
 mixedWords.sort();
 
 var fruity = fruitCollection.splice(1,3);
+var notFruit = fruity;
