@@ -46,3 +46,8 @@ var orderValues = orderedValues.unshift(1,2,3);
 var orderedValuesNewLength = orderValues;
 
 var randomThingsArray = genericNumberArray.concat(colors);
+var foodOne = [{takeOut:'Pizza'}];
+var foodTwo = [{takeOut:'Ramen'}];
+var updatedOrders = orderQueue.concat(foodOne,foodTwo);
+
+
