@@ -52,3 +52,8 @@ var updatedOrders = orderQueue.concat(foodOne,foodTwo);
 
 var sentence = scrambledWords.join(' ');
 var myFruits = fruitCollection.join(' + ');
+
+var favoriteFriends = friends.slice(1,3);
+//var friends = ['Todd', 'Jacoby', 'Miko', 'Joseph', 'Kevin', 'Todd C.'];
+var owesMoney = friends.slice(3,6);
+
