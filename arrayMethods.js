@@ -29,3 +29,5 @@ scrambledWords.reverse();
 phoneNumber.reverse();
 
 var shiftArr = orderQueue.shift();
+var nextOrder = shiftArr;
+
