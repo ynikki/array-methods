@@ -68,3 +68,4 @@ var favoriteEvenNumber = mixedNums.indexOf(76);
 
 // var bulkNumbers = [5, 5, 6, 6, 9, 9, 2, 2, 2, 5, 2];
 var lastNine = bulkNumbers.lastIndexOf(9,-4);
+var lastFive = bulkNumbers.lastIndexOf(5,-1);
