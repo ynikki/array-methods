@@ -41,3 +41,5 @@ var gems = gemBox.splice(5,7,'Sapphire');
 // var upToTen = [1, 2, 9, 10];
 var toTen = upToTen.splice(2,0,3,4,5,6,7,8);
 var brown = brownOnly.splice(1,5, 'brown','brown','brown');
+
+var orderValues = orderedValues.unshift(1,2,3);
