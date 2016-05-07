@@ -57,3 +57,6 @@ var favoriteFriends = friends.slice(1,3);
 //var friends = ['Todd', 'Jacoby', 'Miko', 'Joseph', 'Kevin', 'Todd C.'];
 var owesMoney = friends.slice(3,6);
 
+// var monthNames = ['Jan', 'Feb', 'Mar', 'Apr'];
+var monthNameString = monthNames.toString();
+
