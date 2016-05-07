@@ -51,3 +51,4 @@ var foodTwo = [{takeOut:'Ramen'}];
 var updatedOrders = orderQueue.concat(foodOne,foodTwo);
 
 var sentence = scrambledWords.join(' ');
+var myFruits = fruitCollection.join(' + ');
