@@ -31,3 +31,4 @@ phoneNumber.reverse();
 var shiftArr = orderQueue.shift();
 var nextOrder = shiftArr;
 
+mixedNums.sort();
